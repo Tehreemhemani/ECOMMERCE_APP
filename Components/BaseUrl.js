@@ -1,0 +1,1 @@
+export const BaseUrl = "http://poswebapi.hemanical.com/"
